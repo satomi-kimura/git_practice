@@ -6,3 +6,4 @@
 いぬ
 NULL
 Ruby（い）
+yam
