@@ -8,3 +8,4 @@ NULL
 Ruby（い）
 yam
 malloc
+commit
