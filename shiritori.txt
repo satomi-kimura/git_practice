@@ -6,7 +6,7 @@
 いぬ
 NULL
 Ruby（い）
-yam
+yum
 malloc
 commit
 toast
