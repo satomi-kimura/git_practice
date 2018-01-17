@@ -9,3 +9,4 @@ Ruby（い）
 yam
 malloc
 commit
+toast
